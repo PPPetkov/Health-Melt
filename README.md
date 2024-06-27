@@ -1,2 +1,3 @@
 # Health-Melt
-Android app about health
+Android application made in Android Studio with Java
+
